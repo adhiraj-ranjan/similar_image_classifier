@@ -2,7 +2,7 @@
 Python Code to check if two images are similar, using PIL
 
 
-### Sole Dependencies
+### Sole Dependency
 - pillow
 
 **`pip install pillow`**
