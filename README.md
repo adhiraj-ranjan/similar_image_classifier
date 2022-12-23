@@ -10,7 +10,7 @@ Python Code to check if two images are similar, using PIL
 
 ## Usage
 Import img_similar.py file in your project using , **`import img_similar`**. and use img_similar.are_similar() method by passing paths of two images, to check, if the two images are similar.
-It return True, if they are similar and False if not.
+It returns True, if they are similar and False if not.
 
 ### Find Me on :
 <p align="left">
